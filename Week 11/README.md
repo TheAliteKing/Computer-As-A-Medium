@@ -1,5 +1,3 @@
-# Week 11
-
 // ==========================================
 // 1. Bullet.cs (Unchanged)
 // ==========================================
@@ -185,4 +183,4 @@ public class Player : MonoBehaviour
     }
 }
 
-// That is the end of Week 11
+// That is the end of Week 11 
